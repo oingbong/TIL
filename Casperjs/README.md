@@ -1,4 +1,4 @@
-#Phantomjs 및 Casperjs 설치하기
+# Phantomjs 및 Casperjs 설치하기
 
 ### 주의사항
     1. Casperjs 는 Phantomjs 기반이므로 Casperjs 사용하기 위해서는 Phantomjs 를 먼저 설치해야 합니다.
