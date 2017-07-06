@@ -1,6 +1,6 @@
 # SSH 로 NAS의 git 설정 및 외부접속
 
-[TOC]
+{:toc}
 
 ***
 
